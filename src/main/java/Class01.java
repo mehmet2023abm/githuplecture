@@ -4,5 +4,7 @@ public class Class01 {
 
         System.out.println("birinci versiyom");
 
+        System.out.println("ikinci verisyon");
+
     }
 }
